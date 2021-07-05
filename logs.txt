@@ -1,0 +1,15 @@
+Name: ACPlayGames
+Years Left: 5
+Initial Bal: $1,000,000
+—————
+January 2019: Do Nothing, Balance: $950,000
+April 2019: Convert To 10% Renewable Energy, Balance: $700,000
+July 2019: Release New Product: "Handy Box", Reaction: positive, Balance: $750,000
+October 2019: Release New Product: "Bandy Hox", Reaction: negative, Workers Strike, Balance: $700,000
+January 2020: Do Nothing, Consumer Boycott, Balance: $600,000
+April 2020: Dissolve the Company
+—————
+Final Balance: $600,000
+Earth Status: dead
+Company Status: bankrupt
+Quiz Score: 69%
